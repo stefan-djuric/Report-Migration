@@ -1,7 +1,9 @@
 # Report-Migration
-Contain all script related to AMMIS Report migration created by Data Ninjas
+Contain all scripts related to AMMIS Report migration created by Data Ninjas
 
-A program that converts incoming PostgreSQL input into output files. 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+The DBToFile program under Scripts/Reports converts PostgreSQL info into output files. 
 
 Run with: PathToFiles/DBToFile.py (arguments)
 
