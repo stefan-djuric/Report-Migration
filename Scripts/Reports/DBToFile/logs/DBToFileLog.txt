@@ -1,0 +1,392 @@
+root[2018-11-14 16:14:40,303]: DBToFile.py - INFO: Process started at 16:14:40.303573
+root[2018-11-14 16:14:40,303]: DBToFile.py - INFO: Environment variables set: 
+root[2018-11-14 16:14:40,303]: DBToFile.py - INFO: True
+root[2018-11-14 16:14:40,303]: DBToFile.py - INFO: localhost
+root[2018-11-14 16:14:40,303]: DBToFile.py - INFO: DevFinanceSORDB
+root[2018-11-14 16:14:40,303]: DBToFile.py - INFO: finadmin
+root[2018-11-14 16:14:40,303]: DBToFile.py - INFO: f1nadm1n
+root[2018-11-14 16:14:40,303]: DBToFile.py - INFO: 8050
+root[2018-11-14 16:14:40,303]: DBToFile.py - INFO: At 16:14:40.303573
+root[2018-11-14 16:14:40,886]: DBToFile.py - INFO: Given: (24, 'report.fr8_file', 'CT##DEMF.', '.txt', True, 2, 'CT', 'DEMF', None, None)
+root[2018-11-14 16:14:40,886]: DBToFile.py - INFO: Executing: SELECT report.fr8_file('CT', 'DEMF')
+root[2018-11-14 16:14:47,853]: DBToFile.py - INFO: Added  SPONSOR    LOCATION    OFFER CODE    COLLECTOR #    TRANS DATE         # TRANS    SEQ #             # MILES    PROC DATE             
+
+root[2018-11-14 16:14:47,853]: DBToFile.py - INFO: Added  -------    --------    ----------     ----------    ----------    ------------    ---------    ------------    ----------            
+
+root[2018-11-14 16:14:47,853]: DBToFile.py - INFO: Added  DEMF       D001        69973         84033418898    2018-09-04               1    000000                  2    2018-09-04            
+
+root[2018-11-14 16:14:47,853]: DBToFile.py - INFO: Added  DEMF       D001        69973         84066485199    2018-09-01               1    000000                  2    2018-09-01            
+
+root[2018-11-14 16:14:47,853]: DBToFile.py - INFO: Added  DEMF       D001        STANDARD      80067386483    2018-10-20               1    000000             12,743    2018-10-20            
+
+root[2018-11-14 16:14:47,853]: DBToFile.py - INFO: Added  DEMF       D001        0000003       81730751575    2018-10-20               1    000000             12,741    2018-10-20            
+
+root[2018-11-14 16:14:47,869]: DBToFile.py - INFO: Added  DEMF       D001        69973         83008931377    2018-09-04               1    000000                  2    2018-09-05            
+
+root[2018-11-14 16:14:47,869]: DBToFile.py - INFO: Added  DEMF       D001        0000003       80111102218    2018-10-03               1    000000              5,979    2018-10-04            
+
+root[2018-11-14 16:14:47,870]: DBToFile.py - INFO: Added  DEMF       D001        STANDARD      84155955969    2018-10-03               1    000000              5,981    2018-10-04            
+
+root[2018-11-14 16:14:47,870]: DBToFile.py - INFO: Added  DEMF       D001        69973         80104218049    2018-09-04               1    000000                  2    2018-09-05            
+
+root[2018-11-14 16:14:47,870]: DBToFile.py - INFO: Added  DEMF       D001        69973         83043321579    2018-09-01               1    000000                  2    2018-09-01            
+
+root[2018-11-14 16:14:47,870]: DBToFile.py - INFO: Added  DEMF       D001        0000003       84001795350    2018-11-13               1    000000             19,503    2018-11-13            
+
+root[2018-11-14 16:14:47,870]: DBToFile.py - INFO: Added  DEMF       D001        69973         83012498215    2018-09-04               1    000000                  2    2018-09-05            
+
+root[2018-11-14 16:14:47,870]: DBToFile.py - INFO: Added  DEMF       D001        69973         80141388060    2018-09-02               1    000000                  2    2018-09-03            
+
+root[2018-11-14 16:14:47,870]: DBToFile.py - INFO: Added  DEMF       D001        STANDARD      84017241433    2018-11-13               1    000000             19,505    2018-11-13            
+
+root[2018-11-14 16:14:47,870]: DBToFile.py - INFO: Added                                                                                                                                       
+
+root[2018-11-14 16:14:47,870]: DBToFile.py - INFO: Added  DEMF       D001                               13                            13                       76,466                          
+
+root[2018-11-14 16:14:47,870]: DBToFile.py - INFO: Added                                                                                                                                       
+
+root[2018-11-14 16:14:47,870]: DBToFile.py - INFO: Added  DEMF                                          13                            13                       76,466                          
+
+root[2018-11-14 16:14:47,870]: DBToFile.py - INFO: Writing completed at 16:14:47.870217
+root[2018-11-14 16:14:47,870]: DBToFile.py - INFO: Number of records attempted: 19
+root[2018-11-14 16:14:47,870]: DBToFile.py - INFO: Number of successful records: 19
+root[2018-11-14 16:14:47,870]: DBToFile.py - INFO: Number of failed records: 0
+root[2018-11-14 16:14:47,870]: DBToFile.py - INFO: Finished. Process closing at 16:14:47.870217
+root[2018-11-15 08:52:36,900]: DBToFile.py - INFO: Process started at 08:52:36.900928
+root[2018-11-15 08:52:36,900]: DBToFile.py - INFO: Environment variables set: 
+root[2018-11-15 08:52:36,900]: DBToFile.py - INFO: True
+root[2018-11-15 08:52:36,900]: DBToFile.py - INFO: localhost
+root[2018-11-15 08:52:36,900]: DBToFile.py - INFO: DevFinanceSORDB
+root[2018-11-15 08:52:36,900]: DBToFile.py - INFO: finadmin
+root[2018-11-15 08:52:36,900]: DBToFile.py - INFO: f1nadm1n
+root[2018-11-15 08:52:36,900]: DBToFile.py - INFO: 8050
+root[2018-11-15 08:52:36,900]: DBToFile.py - INFO: At 08:52:36.900928
+root[2018-11-15 08:56:02,399]: DBToFile.py - INFO: Process started at 08:56:02.399923
+root[2018-11-15 08:56:02,400]: DBToFile.py - INFO: Environment variables set: 
+root[2018-11-15 08:56:02,400]: DBToFile.py - INFO: True
+root[2018-11-15 08:56:02,400]: DBToFile.py - INFO: localhost
+root[2018-11-15 08:56:02,400]: DBToFile.py - INFO: DevFinanceSORDB
+root[2018-11-15 08:56:02,400]: DBToFile.py - INFO: finadmin
+root[2018-11-15 08:56:02,400]: DBToFile.py - INFO: f1nadm1n
+root[2018-11-15 08:56:02,400]: DBToFile.py - INFO: 8050
+root[2018-11-15 08:56:02,400]: DBToFile.py - INFO: At 08:56:02.400424
+root[2018-11-15 08:56:55,616]: DBToFile.py - INFO: Process started at 08:56:55.616961
+root[2018-11-15 08:56:55,617]: DBToFile.py - INFO: Environment variables set: 
+root[2018-11-15 08:56:55,617]: DBToFile.py - INFO: True
+root[2018-11-15 08:56:55,617]: DBToFile.py - INFO: localhost
+root[2018-11-15 08:56:55,617]: DBToFile.py - INFO: DevFinanceSORDB
+root[2018-11-15 08:56:55,617]: DBToFile.py - INFO: finadmin
+root[2018-11-15 08:56:55,617]: DBToFile.py - INFO: f1nadm1n
+root[2018-11-15 08:56:55,617]: DBToFile.py - INFO: 8050
+root[2018-11-15 08:56:55,617]: DBToFile.py - INFO: At 08:56:55.617462
+root[2018-11-15 08:58:06,200]: DBToFile.py - INFO: Process started at 08:58:06.200927
+root[2018-11-15 08:58:06,200]: DBToFile.py - INFO: Environment variables set: 
+root[2018-11-15 08:58:06,200]: DBToFile.py - INFO: True
+root[2018-11-15 08:58:06,200]: DBToFile.py - INFO: localhost
+root[2018-11-15 08:58:06,200]: DBToFile.py - INFO: DevFinanceSORDB
+root[2018-11-15 08:58:06,200]: DBToFile.py - INFO: finadmin
+root[2018-11-15 08:58:06,200]: DBToFile.py - INFO: f1nadm1n
+root[2018-11-15 08:58:06,200]: DBToFile.py - INFO: 8050
+root[2018-11-15 08:58:06,200]: DBToFile.py - INFO: At 08:58:06.200927
+root[2018-11-15 08:58:25,050]: DBToFile.py - INFO: Process started at 08:58:25.050867
+root[2018-11-15 08:58:25,050]: DBToFile.py - INFO: Environment variables set: 
+root[2018-11-15 08:58:25,050]: DBToFile.py - INFO: True
+root[2018-11-15 08:58:25,050]: DBToFile.py - INFO: localhost
+root[2018-11-15 08:58:25,050]: DBToFile.py - INFO: DevFinanceSORDB
+root[2018-11-15 08:58:25,050]: DBToFile.py - INFO: finadmin
+root[2018-11-15 08:58:25,050]: DBToFile.py - INFO: f1nadm1n
+root[2018-11-15 08:58:25,050]: DBToFile.py - INFO: 8050
+root[2018-11-15 08:58:25,050]: DBToFile.py - INFO: At 08:58:25.050867
+root[2018-11-15 08:58:31,350]: DBToFile.py - INFO: Process started at 08:58:31.350345
+root[2018-11-15 08:58:31,350]: DBToFile.py - INFO: Environment variables set: 
+root[2018-11-15 08:58:31,350]: DBToFile.py - INFO: True
+root[2018-11-15 08:58:31,350]: DBToFile.py - INFO: localhost
+root[2018-11-15 08:58:31,350]: DBToFile.py - INFO: DevFinanceSORDB
+root[2018-11-15 08:58:31,350]: DBToFile.py - INFO: finadmin
+root[2018-11-15 08:58:31,350]: DBToFile.py - INFO: f1nadm1n
+root[2018-11-15 08:58:31,350]: DBToFile.py - INFO: 8050
+root[2018-11-15 08:58:31,350]: DBToFile.py - INFO: At 08:58:31.350345
+root[2018-11-15 08:58:31,882]: DBToFile.py - INFO: Given: (25, 'report.fr8_file', 'TC##DEMF.', '.txt', True, 2, 'TC', 'DEMF', None, None)
+root[2018-11-15 08:58:31,897]: DBToFile.py - INFO: Executing: SELECT report.fr8_file('TC', 'DEMF')
+root[2018-11-15 08:58:38,713]: DBToFile.py - INFO: Added  SPONSOR    LOCATION    OFFER CODE    COLLECTOR #    TRANS DATE         # TRANS    SEQ #             # MILES    PROC DATE             
+
+root[2018-11-15 08:58:38,713]: DBToFile.py - INFO: Added  -------    --------    ----------    -----------    ----------    ------------    ---------    ------------    ----------            
+
+root[2018-11-15 08:58:38,714]: DBToFile.py - INFO: Added  DEMF       D001        0000003       80111102218    2018-10-03               1    000000              5,979    2018-10-04            
+
+root[2018-11-15 08:58:38,714]: DBToFile.py - INFO: Added  DEMF       D001        STANDARD      84155955969    2018-10-03               1    000000              5,981    2018-10-04            
+
+root[2018-11-15 08:58:38,714]: DBToFile.py - INFO: Added                                                                                                                                       
+
+root[2018-11-15 08:58:38,715]: DBToFile.py - INFO: Added  DEMF       D001                                2    2018-10-03               2                       11,960    2018-10-04            
+
+root[2018-11-15 08:58:38,715]: DBToFile.py - INFO: Added  DEMF       D001        0000003       81730751575    2018-10-20               1    000000             12,741    2018-10-20            
+
+root[2018-11-15 08:58:38,715]: DBToFile.py - INFO: Added  DEMF       D001        STANDARD      80067386483    2018-10-20               1    000000             12,743    2018-10-20            
+
+root[2018-11-15 08:58:38,715]: DBToFile.py - INFO: Added                                                                                                                                       
+
+root[2018-11-15 08:58:38,716]: DBToFile.py - INFO: Added  DEMF       D001                                2    2018-10-20               2                       25,484    2018-10-20            
+
+root[2018-11-15 08:58:38,717]: DBToFile.py - INFO: Added                                                                                                                                       
+
+root[2018-11-15 08:58:38,717]: DBToFile.py - INFO: Added  DEMF       D001                                4                             4                       37,444                          
+
+root[2018-11-15 08:58:38,717]: DBToFile.py - INFO: Added                                                                                                                                       
+
+root[2018-11-15 08:58:38,717]: DBToFile.py - INFO: Added  DEMF                                           4                             4                       37,444                          
+
+root[2018-11-15 08:58:38,717]: DBToFile.py - INFO: Writing completed at 08:58:38.717312
+root[2018-11-15 08:58:38,717]: DBToFile.py - INFO: Number of records attempted: 14
+root[2018-11-15 08:58:38,717]: DBToFile.py - INFO: Number of successful records: 14
+root[2018-11-15 08:58:38,717]: DBToFile.py - INFO: Number of failed records: 0
+root[2018-11-15 08:58:38,717]: DBToFile.py - INFO: Finished. Process closing at 08:58:38.717312
+root[2018-11-15 08:58:43,100]: DBToFile.py - INFO: Process started at 08:58:43.100914
+root[2018-11-15 08:58:43,100]: DBToFile.py - INFO: Environment variables set: 
+root[2018-11-15 08:58:43,100]: DBToFile.py - INFO: True
+root[2018-11-15 08:58:43,100]: DBToFile.py - INFO: localhost
+root[2018-11-15 08:58:43,100]: DBToFile.py - INFO: DevFinanceSORDB
+root[2018-11-15 08:58:43,100]: DBToFile.py - INFO: finadmin
+root[2018-11-15 08:58:43,100]: DBToFile.py - INFO: f1nadm1n
+root[2018-11-15 08:58:43,100]: DBToFile.py - INFO: 8050
+root[2018-11-15 08:58:43,100]: DBToFile.py - INFO: At 08:58:43.100914
+root[2018-11-15 08:58:43,653]: DBToFile.py - INFO: Given: (24, 'report.fr8_file', 'CT##DEMF.', '.txt', True, 2, 'CT', 'DEMF', None, None)
+root[2018-11-15 08:58:43,653]: DBToFile.py - INFO: Executing: SELECT report.fr8_file('CT', 'DEMF')
+root[2018-11-15 08:58:50,583]: DBToFile.py - INFO: Added  SPONSOR    LOCATION    OFFER CODE    COLLECTOR #    TRANS DATE         # TRANS    SEQ #             # MILES    PROC DATE             
+
+root[2018-11-15 08:58:50,583]: DBToFile.py - INFO: Added  -------    --------    ----------     ----------    ----------    ------------    ---------    ------------    ----------            
+
+root[2018-11-15 08:58:50,583]: DBToFile.py - INFO: Added  DEMF       D001        0000003       80111102218    2018-10-03               1    000000              5,979    2018-10-04            
+
+root[2018-11-15 08:58:50,583]: DBToFile.py - INFO: Added  DEMF       D001        0000003       81730751575    2018-10-20               1    000000             12,741    2018-10-20            
+
+root[2018-11-15 08:58:50,583]: DBToFile.py - INFO: Added  DEMF       D001        STANDARD      84155955969    2018-10-03               1    000000              5,981    2018-10-04            
+
+root[2018-11-15 08:58:50,583]: DBToFile.py - INFO: Added  DEMF       D001        STANDARD      80067386483    2018-10-20               1    000000             12,743    2018-10-20            
+
+root[2018-11-15 08:58:50,583]: DBToFile.py - INFO: Added                                                                                                                                       
+
+root[2018-11-15 08:58:50,583]: DBToFile.py - INFO: Added  DEMF       D001                                4                             4                       37,444                          
+
+root[2018-11-15 08:58:50,583]: DBToFile.py - INFO: Added                                                                                                                                       
+
+root[2018-11-15 08:58:50,583]: DBToFile.py - INFO: Added  DEMF                                           4                             4                       37,444                          
+
+root[2018-11-15 08:58:50,583]: DBToFile.py - INFO: Writing completed at 08:58:50.583822
+root[2018-11-15 08:58:50,583]: DBToFile.py - INFO: Number of records attempted: 10
+root[2018-11-15 08:58:50,583]: DBToFile.py - INFO: Number of successful records: 10
+root[2018-11-15 08:58:50,583]: DBToFile.py - INFO: Number of failed records: 0
+root[2018-11-15 08:58:50,583]: DBToFile.py - INFO: Finished. Process closing at 08:58:50.583822
+root[2018-11-15 08:58:53,466]: DBToFile.py - INFO: Process started at 08:58:53.466373
+root[2018-11-15 08:58:53,466]: DBToFile.py - INFO: Environment variables set: 
+root[2018-11-15 08:58:53,466]: DBToFile.py - INFO: True
+root[2018-11-15 08:58:53,466]: DBToFile.py - INFO: localhost
+root[2018-11-15 08:58:53,466]: DBToFile.py - INFO: DevFinanceSORDB
+root[2018-11-15 08:58:53,466]: DBToFile.py - INFO: finadmin
+root[2018-11-15 08:58:53,466]: DBToFile.py - INFO: f1nadm1n
+root[2018-11-15 08:58:53,466]: DBToFile.py - INFO: 8050
+root[2018-11-15 08:58:53,466]: DBToFile.py - INFO: At 08:58:53.466373
+root[2018-11-15 08:58:53,959]: DBToFile.py - INFO: Given: (24, 'report.fr8_file', 'CT##DEMF.', '.txt', True, 2, 'CT', 'DEMF', None, None)
+root[2018-11-15 08:58:53,959]: DBToFile.py - INFO: Executing: SELECT report.fr8_file('CT', 'DEMF')
+root[2018-11-15 08:59:00,899]: DBToFile.py - INFO: Added  SPONSOR    LOCATION    OFFER CODE    COLLECTOR #    TRANS DATE         # TRANS    SEQ #             # MILES    PROC DATE             
+
+root[2018-11-15 08:59:00,899]: DBToFile.py - INFO: Added  -------    --------    ----------     ----------    ----------    ------------    ---------    ------------    ----------            
+
+root[2018-11-15 08:59:00,900]: DBToFile.py - INFO: Added  DEMF       D001        0000003       80111102218    2018-10-03               1    000000              5,979    2018-10-04            
+
+root[2018-11-15 08:59:00,900]: DBToFile.py - INFO: Added  DEMF       D001        0000003       81730751575    2018-10-20               1    000000             12,741    2018-10-20            
+
+root[2018-11-15 08:59:00,900]: DBToFile.py - INFO: Added  DEMF       D001        STANDARD      84155955969    2018-10-03               1    000000              5,981    2018-10-04            
+
+root[2018-11-15 08:59:00,900]: DBToFile.py - INFO: Added  DEMF       D001        STANDARD      80067386483    2018-10-20               1    000000             12,743    2018-10-20            
+
+root[2018-11-15 08:59:00,900]: DBToFile.py - INFO: Added                                                                                                                                       
+
+root[2018-11-15 08:59:00,900]: DBToFile.py - INFO: Added  DEMF       D001                                4                             4                       37,444                          
+
+root[2018-11-15 08:59:00,900]: DBToFile.py - INFO: Added                                                                                                                                       
+
+root[2018-11-15 08:59:00,900]: DBToFile.py - INFO: Added  DEMF                                           4                             4                       37,444                          
+
+root[2018-11-15 08:59:00,900]: DBToFile.py - INFO: Writing completed at 08:59:00.900917
+root[2018-11-15 08:59:00,900]: DBToFile.py - INFO: Number of records attempted: 10
+root[2018-11-15 08:59:00,900]: DBToFile.py - INFO: Number of successful records: 10
+root[2018-11-15 08:59:00,900]: DBToFile.py - INFO: Number of failed records: 0
+root[2018-11-15 08:59:00,900]: DBToFile.py - INFO: Finished. Process closing at 08:59:00.900917
+root[2018-11-15 08:59:00,933]: DBToFile.py - INFO: Given: (25, 'report.fr8_file', 'TC##DEMF.', '.txt', True, 2, 'TC', 'DEMF', None, None)
+root[2018-11-15 08:59:00,933]: DBToFile.py - INFO: Executing: SELECT report.fr8_file('TC', 'DEMF')
+root[2018-11-15 08:59:07,696]: DBToFile.py - INFO: Added  SPONSOR    LOCATION    OFFER CODE    COLLECTOR #    TRANS DATE         # TRANS    SEQ #             # MILES    PROC DATE             
+
+root[2018-11-15 08:59:07,696]: DBToFile.py - INFO: Added  -------    --------    ----------    -----------    ----------    ------------    ---------    ------------    ----------            
+
+root[2018-11-15 08:59:07,696]: DBToFile.py - INFO: Added  DEMF       D001        0000003       80111102218    2018-10-03               1    000000              5,979    2018-10-04            
+
+root[2018-11-15 08:59:07,696]: DBToFile.py - INFO: Added  DEMF       D001        STANDARD      84155955969    2018-10-03               1    000000              5,981    2018-10-04            
+
+root[2018-11-15 08:59:07,696]: DBToFile.py - INFO: Added                                                                                                                                       
+
+root[2018-11-15 08:59:07,696]: DBToFile.py - INFO: Added  DEMF       D001                                2    2018-10-03               2                       11,960    2018-10-04            
+
+root[2018-11-15 08:59:07,696]: DBToFile.py - INFO: Added  DEMF       D001        0000003       81730751575    2018-10-20               1    000000             12,741    2018-10-20            
+
+root[2018-11-15 08:59:07,696]: DBToFile.py - INFO: Added  DEMF       D001        STANDARD      80067386483    2018-10-20               1    000000             12,743    2018-10-20            
+
+root[2018-11-15 08:59:07,696]: DBToFile.py - INFO: Added                                                                                                                                       
+
+root[2018-11-15 08:59:07,696]: DBToFile.py - INFO: Added  DEMF       D001                                2    2018-10-20               2                       25,484    2018-10-20            
+
+root[2018-11-15 08:59:07,696]: DBToFile.py - INFO: Added                                                                                                                                       
+
+root[2018-11-15 08:59:07,696]: DBToFile.py - INFO: Added  DEMF       D001                                4                             4                       37,444                          
+
+root[2018-11-15 08:59:07,696]: DBToFile.py - INFO: Added                                                                                                                                       
+
+root[2018-11-15 08:59:07,711]: DBToFile.py - INFO: Added  DEMF                                           4                             4                       37,444                          
+
+root[2018-11-15 08:59:07,711]: DBToFile.py - INFO: Writing completed at 08:59:07.711890
+root[2018-11-15 08:59:07,711]: DBToFile.py - INFO: Number of records attempted: 14
+root[2018-11-15 08:59:07,711]: DBToFile.py - INFO: Number of successful records: 14
+root[2018-11-15 08:59:07,711]: DBToFile.py - INFO: Number of failed records: 0
+root[2018-11-15 08:59:07,716]: DBToFile.py - INFO: Finished. Process closing at 08:59:07.716687
+root[2018-11-15 11:00:34,747]: DBToFile.py - INFO: Process started at 11:00:34.747555
+root[2018-11-15 11:00:34,747]: DBToFile.py - INFO: Environment variables set: 
+root[2018-11-15 11:00:34,747]: DBToFile.py - INFO: True
+root[2018-11-15 11:00:34,747]: DBToFile.py - INFO: localhost
+root[2018-11-15 11:00:34,747]: DBToFile.py - INFO: DevFinanceSORDB
+root[2018-11-15 11:00:34,747]: DBToFile.py - INFO: finadmin
+root[2018-11-15 11:00:34,747]: DBToFile.py - INFO: f1nadm1n
+root[2018-11-15 11:00:34,747]: DBToFile.py - INFO: 8050
+root[2018-11-15 11:00:34,747]: DBToFile.py - INFO: At 11:00:34.747555
+root[2018-11-15 11:00:35,308]: DBToFile.py - INFO: Given: (24, 'report.fr8_file', 'CT##DEMF.', '.txt', True, 2, 'CT', 'DEMF', None, None)
+root[2018-11-15 11:00:35,308]: DBToFile.py - INFO: Executing: SELECT report.fr8_file('CT', 'DEMF')
+root[2018-11-15 11:00:42,212]: DBToFile.py - INFO: Added  SPONSOR    LOCATION    OFFER CODE    COLLECTOR #    TRANS DATE         # TRANS    SEQ #             # MILES    PROC DATE             
+
+root[2018-11-15 11:00:42,212]: DBToFile.py - INFO: Added  -------    --------    ----------     ----------    ----------    ------------    ---------    ------------    ----------            
+
+root[2018-11-15 11:00:42,212]: DBToFile.py - INFO: Added  DEMF       D001        0000003       80111102218    2018-10-03               1    000000              5,979    2018-10-04            
+
+root[2018-11-15 11:00:42,212]: DBToFile.py - INFO: Added  DEMF       D001        0000003       81730751575    2018-10-20               1    000000             12,741    2018-10-20            
+
+root[2018-11-15 11:00:42,212]: DBToFile.py - INFO: Added  DEMF       D001        STANDARD      84155955969    2018-10-03               1    000000              5,981    2018-10-04            
+
+root[2018-11-15 11:00:42,212]: DBToFile.py - INFO: Added  DEMF       D001        STANDARD      80067386483    2018-10-20               1    000000             12,743    2018-10-20            
+
+root[2018-11-15 11:00:42,212]: DBToFile.py - INFO: Added                                                                                                                                       
+
+root[2018-11-15 11:00:42,212]: DBToFile.py - INFO: Added  DEMF       D001                                4                             4                       37,444                          
+
+root[2018-11-15 11:00:42,212]: DBToFile.py - INFO: Added                                                                                                                                       
+
+root[2018-11-15 11:00:42,212]: DBToFile.py - INFO: Added  DEMF                                           4                             4                       37,444                          
+
+root[2018-11-15 11:00:42,212]: DBToFile.py - INFO: Writing completed at 11:00:42.212972
+root[2018-11-15 11:00:42,212]: DBToFile.py - INFO: Number of records attempted: 10
+root[2018-11-15 11:00:42,212]: DBToFile.py - INFO: Number of successful records: 10
+root[2018-11-15 11:00:42,212]: DBToFile.py - INFO: Number of failed records: 0
+root[2018-11-15 11:00:42,212]: DBToFile.py - INFO: Finished. Process closing at 11:00:42.212972
+root[2018-11-15 11:00:42,247]: DBToFile.py - INFO: Given: (25, 'report.fr8_file', 'TC##DEMF.', '.txt', True, 2, 'TC', 'DEMF', None, None)
+root[2018-11-15 11:00:42,247]: DBToFile.py - INFO: Executing: SELECT report.fr8_file('TC', 'DEMF')
+root[2018-11-15 11:00:49,197]: DBToFile.py - INFO: Added  SPONSOR    LOCATION    OFFER CODE    COLLECTOR #    TRANS DATE         # TRANS    SEQ #             # MILES    PROC DATE             
+
+root[2018-11-15 11:00:49,197]: DBToFile.py - INFO: Added  -------    --------    ----------    -----------    ----------    ------------    ---------    ------------    ----------            
+
+root[2018-11-15 11:00:49,197]: DBToFile.py - INFO: Added  DEMF       D001        0000003       80111102218    2018-10-03               1    000000              5,979    2018-10-04            
+
+root[2018-11-15 11:00:49,197]: DBToFile.py - INFO: Added  DEMF       D001        STANDARD      84155955969    2018-10-03               1    000000              5,981    2018-10-04            
+
+root[2018-11-15 11:00:49,197]: DBToFile.py - INFO: Added                                                                                                                                       
+
+root[2018-11-15 11:00:49,197]: DBToFile.py - INFO: Added  DEMF       D001                                2    2018-10-03               2                       11,960    2018-10-04            
+
+root[2018-11-15 11:00:49,197]: DBToFile.py - INFO: Added  DEMF       D001        0000003       81730751575    2018-10-20               1    000000             12,741    2018-10-20            
+
+root[2018-11-15 11:00:49,197]: DBToFile.py - INFO: Added  DEMF       D001        STANDARD      80067386483    2018-10-20               1    000000             12,743    2018-10-20            
+
+root[2018-11-15 11:00:49,197]: DBToFile.py - INFO: Added                                                                                                                                       
+
+root[2018-11-15 11:00:49,197]: DBToFile.py - INFO: Added  DEMF       D001                                2    2018-10-20               2                       25,484    2018-10-20            
+
+root[2018-11-15 11:00:49,197]: DBToFile.py - INFO: Added                                                                                                                                       
+
+root[2018-11-15 11:00:49,197]: DBToFile.py - INFO: Added  DEMF       D001                                4                             4                       37,444                          
+
+root[2018-11-15 11:00:49,197]: DBToFile.py - INFO: Added                                                                                                                                       
+
+root[2018-11-15 11:00:49,197]: DBToFile.py - INFO: Added  DEMF                                           4                             4                       37,444                          
+
+root[2018-11-15 11:00:49,197]: DBToFile.py - INFO: Writing completed at 11:00:49.197381
+root[2018-11-15 11:00:49,197]: DBToFile.py - INFO: Number of records attempted: 14
+root[2018-11-15 11:00:49,197]: DBToFile.py - INFO: Number of successful records: 14
+root[2018-11-15 11:00:49,197]: DBToFile.py - INFO: Number of failed records: 0
+root[2018-11-15 11:00:49,197]: DBToFile.py - INFO: Finished. Process closing at 11:00:49.197381
+root[2018-11-15 11:14:11,173]: DBToFile.py - INFO: Process started at 11:14:11.173000
+root[2018-11-15 11:14:11,173]: DBToFile.py - INFO: Environment variables set: 
+root[2018-11-15 11:14:11,173]: DBToFile.py - INFO: True
+root[2018-11-15 11:14:11,173]: DBToFile.py - INFO: localhost
+root[2018-11-15 11:14:11,173]: DBToFile.py - INFO: DevFinanceSORDB
+root[2018-11-15 11:14:11,173]: DBToFile.py - INFO: finadmin
+root[2018-11-15 11:14:11,173]: DBToFile.py - INFO: f1nadm1n
+root[2018-11-15 11:14:11,173]: DBToFile.py - INFO: 8050
+root[2018-11-15 11:14:11,173]: DBToFile.py - INFO: At 11:14:11.173000
+root[2018-11-15 11:14:11,723]: DBToFile.py - INFO: Given: (24, 'report.fr8_file', 'CT##DEMF.', '.txt', True, 2, 'CT', 'DEMF', None, None)
+root[2018-11-15 11:14:11,739]: DBToFile.py - INFO: Executing: SELECT report.fr8_file('CT', 'DEMF')
+root[2018-11-15 11:14:18,639]: DBToFile.py - INFO: Added  SPONSOR    LOCATION    OFFER CODE    COLLECTOR #    TRANS DATE         # TRANS    SEQ #             # MILES    PROC DATE             
+
+root[2018-11-15 11:14:18,639]: DBToFile.py - INFO: Added  -------    --------    ----------     ----------    ----------    ------------    ---------    ------------    ----------            
+
+root[2018-11-15 11:14:18,639]: DBToFile.py - INFO: Added  DEMF       D001        0000003       80111102218    2018-10-03               1    000000              5,979    2018-10-04            
+
+root[2018-11-15 11:14:18,639]: DBToFile.py - INFO: Added  DEMF       D001        0000003       81730751575    2018-10-20               1    000000             12,741    2018-10-20            
+
+root[2018-11-15 11:14:18,639]: DBToFile.py - INFO: Added  DEMF       D001        STANDARD      84155955969    2018-10-03               1    000000              5,981    2018-10-04            
+
+root[2018-11-15 11:14:18,655]: DBToFile.py - INFO: Added  DEMF       D001        STANDARD      80067386483    2018-10-20               1    000000             12,743    2018-10-20            
+
+root[2018-11-15 11:14:18,655]: DBToFile.py - INFO: Added                                                                                                                                       
+
+root[2018-11-15 11:14:18,656]: DBToFile.py - INFO: Added  DEMF       D001                                4                             4                       37,444                          
+
+root[2018-11-15 11:14:18,656]: DBToFile.py - INFO: Added                                                                                                                                       
+
+root[2018-11-15 11:14:18,656]: DBToFile.py - INFO: Added  DEMF                                           4                             4                       37,444                          
+
+root[2018-11-15 11:14:18,656]: DBToFile.py - INFO: Writing completed at 11:14:18.656421
+root[2018-11-15 11:14:18,656]: DBToFile.py - INFO: Number of records attempted: 10
+root[2018-11-15 11:14:18,656]: DBToFile.py - INFO: Number of successful records: 10
+root[2018-11-15 11:14:18,656]: DBToFile.py - INFO: Number of failed records: 0
+root[2018-11-15 11:14:18,656]: DBToFile.py - INFO: Finished. Process closing at 11:14:18.656421
+root[2018-11-15 11:14:18,690]: DBToFile.py - INFO: Given: (25, 'report.fr8_file', 'TC##DEMF.', '.txt', True, 2, 'TC', 'DEMF', None, None)
+root[2018-11-15 11:14:18,690]: DBToFile.py - INFO: Executing: SELECT report.fr8_file('TC', 'DEMF')
+root[2018-11-15 11:14:25,605]: DBToFile.py - INFO: Added  SPONSOR    LOCATION    OFFER CODE    COLLECTOR #    TRANS DATE         # TRANS    SEQ #             # MILES    PROC DATE             
+
+root[2018-11-15 11:14:25,605]: DBToFile.py - INFO: Added  -------    --------    ----------    -----------    ----------    ------------    ---------    ------------    ----------            
+
+root[2018-11-15 11:14:25,606]: DBToFile.py - INFO: Added  DEMF       D001        0000003       80111102218    2018-10-03               1    000000              5,979    2018-10-04            
+
+root[2018-11-15 11:14:25,606]: DBToFile.py - INFO: Added  DEMF       D001        STANDARD      84155955969    2018-10-03               1    000000              5,981    2018-10-04            
+
+root[2018-11-15 11:14:25,606]: DBToFile.py - INFO: Added                                                                                                                                       
+
+root[2018-11-15 11:14:25,606]: DBToFile.py - INFO: Added  DEMF       D001                                2    2018-10-03               2                       11,960    2018-10-04            
+
+root[2018-11-15 11:14:25,606]: DBToFile.py - INFO: Added  DEMF       D001        0000003       81730751575    2018-10-20               1    000000             12,741    2018-10-20            
+
+root[2018-11-15 11:14:25,606]: DBToFile.py - INFO: Added  DEMF       D001        STANDARD      80067386483    2018-10-20               1    000000             12,743    2018-10-20            
+
+root[2018-11-15 11:14:25,606]: DBToFile.py - INFO: Added                                                                                                                                       
+
+root[2018-11-15 11:14:25,606]: DBToFile.py - INFO: Added  DEMF       D001                                2    2018-10-20               2                       25,484    2018-10-20            
+
+root[2018-11-15 11:14:25,606]: DBToFile.py - INFO: Added                                                                                                                                       
+
+root[2018-11-15 11:14:25,606]: DBToFile.py - INFO: Added  DEMF       D001                                4                             4                       37,444                          
+
+root[2018-11-15 11:14:25,606]: DBToFile.py - INFO: Added                                                                                                                                       
+
+root[2018-11-15 11:14:25,606]: DBToFile.py - INFO: Added  DEMF                                           4                             4                       37,444                          
+
+root[2018-11-15 11:14:25,606]: DBToFile.py - INFO: Writing completed at 11:14:25.606367
+root[2018-11-15 11:14:25,606]: DBToFile.py - INFO: Number of records attempted: 14
+root[2018-11-15 11:14:25,606]: DBToFile.py - INFO: Number of successful records: 14
+root[2018-11-15 11:14:25,606]: DBToFile.py - INFO: Number of failed records: 0
+root[2018-11-15 11:14:25,606]: DBToFile.py - INFO: Finished. Process closing at 11:14:25.606367

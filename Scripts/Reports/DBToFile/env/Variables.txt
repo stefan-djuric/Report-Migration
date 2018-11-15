@@ -1,0 +1,12 @@
+# Is debug logging enabled?
+True
+# Server Name
+localhost
+# Database Name
+DevFinanceSORDB
+# User ID
+finadmin
+# User Password
+f1nadm1n
+# Port
+8050
